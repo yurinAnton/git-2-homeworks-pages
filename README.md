@@ -1,7 +1,7 @@
 ## ABOUT ME
 
 __Photo__
-![Photo](./img/Антон.jpg,w_300,h_400)
+![Photo](./img/Антон2.jpg)
 
 __Personality__
 * name: Yurin Anton;
